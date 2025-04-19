@@ -1,0 +1,1 @@
+var json_byblos_3 = {"type":"FeatureCollection","name":"byblos_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[35.646503209711916,34.171793732081731]}}]}
